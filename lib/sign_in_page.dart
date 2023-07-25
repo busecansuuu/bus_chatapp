@@ -1,4 +1,4 @@
-import 'package:chat_app/common_widget/social_loginbutton.dart';
+import 'package:bus_chatapp/common_widget/social_loginbutton.dart';
 import 'package:flutter/material.dart';
 
 class SignInPage extends StatelessWidget {
@@ -48,6 +48,13 @@ class SignInPage extends StatelessWidget {
                 textColor: Colors.white,
                 radius: 16,
                 butonIcon: Image.asset("images/mail.png"),
+                onPressed: () {}),
+                SocialLoginButton(
+                butonText: "Misafir Girişi",
+                butonColor: Colors.pink,
+                textColor: Colors.white,
+                radius: 16,
+                butonIcon: const Icon(Icons.person),
                 onPressed: () {}),
           ],
         ),
