@@ -1,6 +1,5 @@
 # chat_app
 ![staj25](https://github.com/busecansuuu/yemek_app/assets/103958071/7be456a8-c3c7-44a1-a233-b1c85334482b)
-![staj12](https://github.com/busecansuuu/yemek_app/assets/103958071/ef68e49e-7212-428d-be1b-64ed1616ab6e)
 ![staj15](https://github.com/busecansuuu/yemek_app/assets/103958071/07bd1dcd-078c-46f4-8ece-b7f231cef846)
 ![staj14](https://github.com/busecansuuu/yemek_app/assets/103958071/c687bad5-4cf1-4b69-9d00-2dc9ade8a987)
 ![staj22](https://github.com/busecansuuu/yemek_app/assets/103958071/f611dfa1-e2d7-46fe-a0f1-78973dbf22e4)
