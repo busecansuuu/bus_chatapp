@@ -1,16 +1,10 @@
 # chat_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![staj25](https://github.com/busecansuuu/yemek_app/assets/103958071/7be456a8-c3c7-44a1-a233-b1c85334482b)
+![staj12](https://github.com/busecansuuu/yemek_app/assets/103958071/ef68e49e-7212-428d-be1b-64ed1616ab6e)
+![staj15](https://github.com/busecansuuu/yemek_app/assets/103958071/07bd1dcd-078c-46f4-8ece-b7f231cef846)
+![staj14](https://github.com/busecansuuu/yemek_app/assets/103958071/c687bad5-4cf1-4b69-9d00-2dc9ade8a987)
+![staj22](https://github.com/busecansuuu/yemek_app/assets/103958071/f611dfa1-e2d7-46fe-a0f1-78973dbf22e4)
+![Uploading staj21.png…]()
+![staj20](https://github.com/busecansuuu/yemek_app/assets/103958071/46352459-384a-4d73-b458-f0b2f795025f)
+![staj23](https://github.com/busecansuuu/yemek_app/assets/103958071/7b7e1af0-73ca-424a-80b7-630104d0bc15)
+![staj26](https://github.com/busecansuuu/yemek_app/assets/103958071/a66670fd-0bcd-4b5b-ae8b-9bf71ccecd3d)
