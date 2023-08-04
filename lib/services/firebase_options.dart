@@ -45,7 +45,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyBcdaybSh16pYPV8DdIvc6RFJWV_Bhpdt8',
-    appId: '1:351273690407:web:fb3b803a0bc5ed7d10b502',
+    appId: '1:351273690407:web:06f77cb1dad12df010b502',
     messagingSenderId: '351273690407',
     projectId: 'bus-chatapp',
     authDomain: 'bus-chatapp.firebaseapp.com',
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyDduMJ9eS-wc1Cm0VlENeaRpcxXuYXcd_s',
-    appId: '1:351273690407:android:541aef63699edbcd10b502',
+    appId: '1:351273690407:android:449a6044d6b0032410b502',
     messagingSenderId: '351273690407',
     projectId: 'bus-chatapp',
     storageBucket: 'bus-chatapp.appspot.com',
@@ -62,21 +62,27 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyAUp2o2za9F6oWTky2e3RLY766oqPhV48A',
-    appId: '1:351273690407:ios:a7b9b12ae57f81c810b502',
+    appId: '1:351273690407:ios:bcf89cfa12769c3010b502',
     messagingSenderId: '351273690407',
     projectId: 'bus-chatapp',
     storageBucket: 'bus-chatapp.appspot.com',
-    iosClientId: '351273690407-rmf6som0l22fsgvgk70scp95a1ds97dj.apps.googleusercontent.com',
+    androidClientId:
+        '351273690407-7otnhpk8l61gt582d5pbsqj2a1gavf83.apps.googleusercontent.com',
+    iosClientId:
+        '351273690407-rmf6som0l22fsgvgk70scp95a1ds97dj.apps.googleusercontent.com',
     iosBundleId: 'com.example.chatApp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyAUp2o2za9F6oWTky2e3RLY766oqPhV48A',
-    appId: '1:351273690407:ios:906d131c1636c2ec10b502',
+    appId: '1:351273690407:ios:a3fb9efa2ac4f91d10b502',
     messagingSenderId: '351273690407',
     projectId: 'bus-chatapp',
     storageBucket: 'bus-chatapp.appspot.com',
-    iosClientId: '351273690407-cqeap0k5965n3g5kd3e267dg59f8cgom.apps.googleusercontent.com',
+    androidClientId:
+        '351273690407-7otnhpk8l61gt582d5pbsqj2a1gavf83.apps.googleusercontent.com',
+    iosClientId:
+        '351273690407-cqeap0k5965n3g5kd3e267dg59f8cgom.apps.googleusercontent.com',
     iosBundleId: 'com.example.chatApp.RunnerTests',
   );
 }
